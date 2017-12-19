@@ -1,3 +1,8 @@
+/**
+ * @author Z
+ * @since 18 December 2017
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.Random;
